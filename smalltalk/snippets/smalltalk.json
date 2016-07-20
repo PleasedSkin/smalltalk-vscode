@@ -1,0 +1,20 @@
+{
+	"ifTrue": {
+		"prefix": "ift",
+		"body": [
+			"ifTrue:[",
+			"\t$0",
+			"]"
+		],
+		"description": "ifTrue statement"
+	},
+	"ifFalse": {
+		"prefix": "iff",
+		"body": [
+			"ifFalse:[",
+			"\t$0",
+			"]"
+		],
+		"description": "ifFalse statement"
+	}
+}

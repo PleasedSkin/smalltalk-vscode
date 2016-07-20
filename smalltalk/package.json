@@ -1,0 +1,34 @@
+{
+    "name": "smalltalk",
+    "displayName": "Smalltalk",
+    "description": "Smalltalk language support for VS Code",
+    "version": "0.0.1",
+    "publisher": "PleasedSkin",
+    "icon": "images/Smalltalk-balloon.png",
+    "engines": {
+        "vscode": "^1.0.0"
+    },
+    "categories": [
+        "Languages"
+    ],
+    
+    "contributes": {
+        "languages": [{
+            "id": "smalltalk",
+            "aliases": ["Smalltalk", "smalltalk"],
+            "extensions": [".st"],
+            "configuration": "./smalltalk.configuration.json"
+        }],
+        "grammars": [{
+            "language": "smalltalk",
+            "scopeName": "source.smalltalk",
+            "path": "./syntaxes/smalltalk.tmLanguage"
+        }],
+        "snippets": [
+			{
+				"language": "smalltalk",
+				"path": "./snippets/smalltalk.json"
+			}
+	    ]
+    }
+}
