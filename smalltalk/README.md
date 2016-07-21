@@ -10,6 +10,7 @@ Based on Tomás D'Stefano tmLanguage (available [here](https://github.com/tomas-
 
 ## Install
 
+1. Within Visual Studio Code, open the command palette (Ctrl+Shift+P / Cmd+Shift+P)
 2. Select Install Extension and search for 'smalltalk' or run ext install smalltalk
 
 
