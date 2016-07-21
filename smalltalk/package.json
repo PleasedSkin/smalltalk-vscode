@@ -22,7 +22,7 @@
         "grammars": [{
             "language": "smalltalk",
             "scopeName": "source.smalltalk",
-            "path": "./syntaxes/smalltalk.tmLanguage"
+            "path": "./syntaxes/Smalltalk.tmLanguage"
         }],
         "snippets": [
 			{
