@@ -1,5 +1,0 @@
-- Tester l'extension
-- Changer le nom de user lors du packaging de l'extension
-- Ouvrir un GitHub à mon nom
-- Publier l'extension + tests + citer l'auteur original du tmLanguage (https://github.com/tomas-stefano/smalltalk-tmbundle/blob/master/Syntaxes/SmallTalk.tmLanguage) -> l'avertir
-- Suivre les avis voire améliorer l'extension
